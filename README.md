@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...   Software developments,Web development,App development...
 - 🌱 I’m currently learning ... B.E computer science engineering at Velammal Engineering college
 - 💞️ I’m looking to collaborate on ... Mini projects
+- 😍 I'm interested in Data Science📊 and Full stack development 👨‍💻, Block chain.
 - 📫 How to reach me ... through E-mail (rahulprofessional06@gmail.com) ,(rahulvivekanandan01@gmail.com).
 
 <!---
