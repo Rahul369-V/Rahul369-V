@@ -13,6 +13,7 @@
 <!--     <a href="https://www.hackerrank.com/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Profile-green?style=for-the-badge&logo=hackerrank"/> </a> -->
 <!--     <a href="https://cssbattle.dev/player/lXsj5gKqHnZdpV1Wc8gNvVd2g8E2" target="_blank"> <img src="https://img.shields.io/badge/Cssbattle-Profile-B25068?style=for-the-badge&logo=Cssbattle"/> </a> -->
     <a href="https://www.frontendmentor.io/profile/Rahul369-V" target="_blank"> <img src="https://img.shields.io/badge/Frontendmentor-Profile-blue?style=flat-square&logo=frontendmentor"/> </a>
+    <a href="https://replit.com/@RahulVivekanand" target="_blank"> <img src="https://img.shields.io/badge/Replit-Profile-ff69b4?style=flat-square&logo=replit"/> </a>
 <!--      <a href="https://www.freecodecamp.org/shabari02" target="_blank"> <img src="https://img.shields.io/badge/Freecodecamp-Profile-ff69b4?style=for-the-badge&logo=freecodecamp"/> </a> -->
 <!--       <a href="https://codepen.io/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Codepen-Profile-1B1A17?style=for-the-badge&logo=codepen"/> </a> -->
 <!--      <a href="https://www.codewars.com/users/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Codewars-Profile-D1512D?style=for-the-badge&logo=codewars"/> </a> -->
@@ -21,16 +22,16 @@
  </p>
 
 <p align="center" style="margin-top:70px; ">
-    <a href="https://github.com/Rahul369-V">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul369-V&theme=radical&hide_border=true"/>
+    <a href="https://github.com/Shabari02/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul369-V&theme=radical&hide_border=true"/>
     </a>
 </p>
 
 
 # 📊 GitHub Stats 📊:
 <br>
-<a href="https://github.com/Rahul369-V" alt="Rahul's Github Stats🔥" title="Rahul's Github Stats🔥"><img alt="Rahul's Github Stats🔥" src="https://github-readme-stats.vercel.app/api?username=Rahul369-V&theme=radical&hide_border=true&include_all_commits=true&count_private=true"></a>
-<a href="https://github.com/Rahul369-V" alt="Languages Used📝" title="Languages Used📝"><img alt="Languages Used📝" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul369-V&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
+<a alt="Rahul's Github Stats🔥" title="Rahul's Github Stats🔥"><img alt="Rahul's Github Stats🔥" src="https://github-readme-stats.vercel.app/api?username=Rahul369-V&theme=radical&hide_border=true&include_all_commits=true&count_private=true"></a>
+<a alt="Languages Used📝" title="Languages Used📝"><img alt="Languages Used📝" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul369-V&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
 <br>
 <br>
 
