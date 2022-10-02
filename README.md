@@ -21,16 +21,16 @@
  </p>
 
 <p align="center" style="margin-top:70px; ">
-    <a href="https://github.com/Shabari02/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul369-V&theme=radical&hide_border=true"/>
+    <a href="https://github.com/Rahul369-V">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul369-V&theme=radical&hide_border=true"/>
     </a>
 </p>
 
 
 # 📊 GitHub Stats 📊:
 <br>
-<a alt="Rahul's Github Stats🔥" title="Rahul's Github Stats🔥"><img alt="Rahul's Github Stats🔥" src="https://github-readme-stats.vercel.app/api?username=Rahul369-V&theme=radical&hide_border=true&include_all_commits=true&count_private=true"></a>
-<a alt="Languages Used📝" title="Languages Used📝"><img alt="Languages Used📝" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul369-V&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
+<a href="https://github.com/Rahul369-V" alt="Rahul's Github Stats🔥" title="Rahul's Github Stats🔥"><img alt="Rahul's Github Stats🔥" src="https://github-readme-stats.vercel.app/api?username=Rahul369-V&theme=radical&hide_border=true&include_all_commits=true&count_private=true"></a>
+<a href="https://github.com/Rahul369-V" alt="Languages Used📝" title="Languages Used📝"><img alt="Languages Used📝" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul369-V&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
 <br>
 <br>
 
