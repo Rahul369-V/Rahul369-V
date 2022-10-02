@@ -12,7 +12,7 @@
 <p align="left"> 
 <!--     <a href="https://www.hackerrank.com/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Profile-green?style=for-the-badge&logo=hackerrank"/> </a> -->
 <!--     <a href="https://cssbattle.dev/player/lXsj5gKqHnZdpV1Wc8gNvVd2g8E2" target="_blank"> <img src="https://img.shields.io/badge/Cssbattle-Profile-B25068?style=for-the-badge&logo=Cssbattle"/> </a> -->
-    <a href="https://www.frontendmentor.io/profile/Rahul369-V" target="_blank"> <img src="https://img.shields.io/badge/Frontendmentor-Profile-blue?style=for-the-badge&logo=frontendmentor"/> </a>
+    <a href="https://www.frontendmentor.io/profile/Rahul369-V" target="_blank"> <img src="https://img.shields.io/badge/Frontendmentor-Profile-blue?style=flat-square&logo=frontendmentor"/> </a>
 <!--      <a href="https://www.freecodecamp.org/shabari02" target="_blank"> <img src="https://img.shields.io/badge/Freecodecamp-Profile-ff69b4?style=for-the-badge&logo=freecodecamp"/> </a> -->
 <!--       <a href="https://codepen.io/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Codepen-Profile-1B1A17?style=for-the-badge&logo=codepen"/> </a> -->
 <!--      <a href="https://www.codewars.com/users/Shabari02" target="_blank"> <img src="https://img.shields.io/badge/Codewars-Profile-D1512D?style=for-the-badge&logo=codewars"/> </a> -->
