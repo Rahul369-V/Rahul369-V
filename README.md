@@ -1,5 +1,5 @@
 <a href="#">
-    <img src="[https://giphy.com/embed/ufrrr2kM3zcoJB6Krh](https://media.giphy.com/media/ufrrr2kM3zcoJB6Krh/giphy.gif)">
+    <img src="https://media.giphy.com/media/v302XFRAd6DWOO4lRC/giphy.gif">
 </a>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ufrrr2kM3zcoJB6Krh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ufrrr2kM3zcoJB6Krh">via GIPHY</a></p>
 # 💫 About Me:
