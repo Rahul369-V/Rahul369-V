@@ -29,7 +29,7 @@
  </p>
 
 <p align="center" style="margin-top:70px; ">
-    <a href="https://github.com/Shabari02/github-readme-streak-stats">
+    <a href="https://github.com/Rahul369-V/Rahul369-V">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul369-V&theme=radical&hide_border=true"/>
     </a>
 </p>
