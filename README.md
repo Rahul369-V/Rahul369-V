@@ -1,5 +1,10 @@
 
-<div style="width:100%;height:0;padding-bottom:44%;position:relative;"><iframe src="https://giphy.com/embed/v302XFRAd6DWOO4lRC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/v302XFRAd6DWOO4lRC">via GIPHY</a></p>
+<div  style="width:100%;background-color:red;height:0;padding-bottom:56%;position:relative;>
+    <a href="#">
+    <img src="https://media.giphy.com/media/v302XFRAd6DWOO4lRC/giphy.gif" >
+</a>
+</div>
+
 # 💫 About Me:
 👋 Hi, I’m @ Rahul Vivekanandan<br>👀 I’m interested in ... Software developments,Web development,App development...<br>🌱 I’m currently learning ... B.E computer science engineering at Velammal Engineering college<br>💞️ I’m looking to collaborate on ... Mini projects<br>😍 I'm interested in Data Science📊 and Full stack development 👨‍💻, Block chain.<br>📫 How to reach me ... through E-mail (rahulprofessional06@gmail.com) ,(rahulvivekanandan01@gmail.com).
 
