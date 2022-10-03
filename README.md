@@ -1,5 +1,5 @@
 
-<div  style="width:100%;background-color:red;height:0;padding-bottom:56%;position:relative;>
+<div  style="width:100%;background-color:red;height:0;padding-bottom:56%;position:relative;">
     <a href="#">
     <img src="https://media.giphy.com/media/v302XFRAd6DWOO4lRC/giphy.gif" >
 </a>
